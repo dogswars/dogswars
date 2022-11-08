@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dogswars
 - 👀 I’m interested in Writing 
-- 🌱 I’m currently learning cert IV 
+- 🌱 I’m currently learning Cert IV 
 - 💞️ I’m looking to collaborate on GitHub 
 - 📫 How to reach me fjpearce66@gmail.com 
 
